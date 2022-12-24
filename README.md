@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/felipemsalles">
   
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=felipemsalles&theme=blue-green"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipemsalles&theme=blue-green"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsalles&theme=blue-green"/>
 </div>
 
@@ -34,7 +34,6 @@
  <a href="https://blogfelipe.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
  <a href="https://felipe-salles.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  <a href="https://twitter.com/felipesallesBR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
- <a href = "mailto:mfelipesalles@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/felipemsalles/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
  
