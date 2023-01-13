@@ -8,13 +8,9 @@
 
 - 👨‍💻 More at [my page](https://https://felipemsalles.github.io/)
 
-
-<div align="center">
-  <a href="https://github.com/felipemsalles">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipemsalles&theme=blue-green"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsalles&theme=blue-green"/>
-</div>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
