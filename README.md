@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently doing hands-on projects, reading books, and writing articles on my [blog](https://blogfelipe.com).
 
-- 👨‍💻 More at [my page](https://felipemsalles.github.io/)
-
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
 </p>
