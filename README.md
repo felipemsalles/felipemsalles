@@ -4,7 +4,7 @@
 
 - 🔥 I'm a Computer Sci undergrad from Brazil 
 
-- 🔭 I’m currently doing hands-on projects, reading books, and writing articles on my [blog](https://blogfelipe.com).
+- 🔭 I’m currently doing hands-on projects, reading books, and writing articles.
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
