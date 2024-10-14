@@ -6,13 +6,16 @@
 
 - 🔭 I’m currently doing hands-on projects, reading books, and writing articles.
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsalles&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsalles&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
