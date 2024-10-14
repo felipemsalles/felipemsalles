@@ -10,6 +10,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=felipemsalles&theme=dark&mode=weekly" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsalles&theme=dark" />
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
