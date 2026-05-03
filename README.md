@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipemsalles&color=yellow" alt="Profile views" /> </p>
 <p align="left"> <a href="https://blogfelipe.com" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/https/blogfelipe.com.svg"></a> </p>
 
-- 🔥 PhD Student ICMC/USP
+- 🔥 PhD Student at ICMC/USP.
 
 - 🔭 I’m currently working on UAVs Security using AI algorithms.
 
