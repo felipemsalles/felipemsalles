@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipemsalles&color=yellow" alt="Profile views" /> </p>
 <p align="left"> <a href="https://blogfelipe.com" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/https/blogfelipe.com.svg"></a> </p>
 
-- 🔥 I'm a Computer Sci undergrad from Brazil 
+- 🔥 PhD Student ICMC/USP
 
-- 🔭 I’m currently doing hands-on projects, reading books, and writing articles.
+- 🔭 I’m currently working on UAVs Security using AI algorithms.
 
 <table align="center">
   <tr>
